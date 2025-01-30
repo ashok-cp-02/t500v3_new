@@ -8339,5 +8339,492 @@
       "totalRecords": 979,
       "groupbydetails": []
     }
+  },
+  "permissionlist_getlookupdatabyid": {
+    "result": {
+      "data": {
+        "lookupentityid": "5cdc0f7a-0670-45a8-b87e-3b131390931c",
+        "lookupvalues": [
+          {
+            "islookup": true,
+            "masterid": "12AAF129-4402-4545-A8BF-B6BD67B8D00B",
+            "mastervalues": "[{\"optionid\":\"7000\",\"optionvalue\":\"Project Type\"},{\"optionid\":\"7001\",\"optionvalue\":\"Priority\"},{\"optionid\":\"7002\",\"optionvalue\":\"Status\"},{\"optionid\":\"7003\",\"optionvalue\":\"Plan Year\"},{\"optionid\":\"7004\",\"optionvalue\":\"Plan Month\"},{\"optionid\":\"7005\",\"optionvalue\":\"Plan Week\"},{\"optionid\":\"7006\",\"optionvalue\":\"Stage\"},{\"optionid\":\"7006\",\"optionvalue\":\"Type\"},{\"optionid\":\"7007\",\"optionvalue\":\"Family\"},{\"optionid\":\"7008\",\"optionvalue\":\"PlanQuarter\"},{\"optionid\":\"7009\",\"optionvalue\":\"DeliverableType\"},{\"optionid\":\"7010\",\"optionvalue\":\"Project Top\"},{\"optionid\":\"7011\",\"optionvalue\":\"Due Week\"},{\"optionid\":\"7012\",\"optionvalue\":\"Work week\"},{\"optionid\":\"7013\",\"optionvalue\":\"Stage\"},{\"optionid\":\"7014\",\"optionvalue\":\"Type\"},{\"optionid\":\"7015\",\"optionvalue\":\"Category\"},{\"optionid\":\"7016\",\"optionvalue\":\"Sub Category\"},{\"optionid\":\"7017\",\"optionvalue\":\"Priority\"},{\"optionid\":\"7018\",\"optionvalue\":\"Status\"},{\"optionid\":\"7019\",\"optionvalue\":\"Plan Year\"},{\"optionid\":\"7020\",\"optionvalue\":\"Plan Month\"},{\"optionid\":\"7021\",\"optionvalue\":\"Plan Week\"},{\"optionid\":\"7022\",\"optionvalue\":\"Work Week\"},{\"optionid\":\"7023\",\"optionvalue\":\"Stage\"},{\"optionid\":\"7024\",\"optionvalue\":\"PlanQuarter\"},{\"optionid\":\"7025\",\"optionvalue\":\"Deliverable Type\"},{\"optionid\":\"7026\",\"optionvalue\":\"State\"},{\"optionid\":\"7027\",\"optionvalue\":\"Size\"},{\"optionid\":\"7028\",\"optionvalue\":\"RStartweek\"},{\"optionid\":\"7029\",\"optionvalue\":\"REndweek\"},{\"optionid\":\"7030\",\"optionvalue\":\"RFeedback\"},{\"optionid\":\"7037\",\"optionvalue\":\"Followup Type\"},{\"optionid\":\"7038\",\"optionvalue\":\"plan Source\"},{\"optionid\":\"7039\",\"optionvalue\":\"Functional Area\"},{\"optionid\":\"7040\",\"optionvalue\":\"Effort\"},{\"optionid\":\"7041\",\"optionvalue\":\"Priority\"},{\"optionid\":\"7042\",\"optionvalue\":\"Time Criticality\"},{\"optionid\":\"7043\",\"optionvalue\":\"WorkFlow Status\"},{\"optionid\":\"7044\",\"optionvalue\":\"category\"},{\"optionid\":\"7045\",\"optionvalue\":\"session\"},{\"optionid\":\"7031\",\"optionvalue\":\"Sub Category\"},{\"optionid\":\"7032\",\"optionvalue\":\"Entity Type\"},{\"optionid\":\"7033\",\"optionvalue\":\"Category\"},{\"optionid\":\"7034\",\"optionvalue\":\"Column Type\"},{\"optionid\":\"7036\",\"optionvalue\":\"Lookup\\/Option\"},{\"optionid\":\"7035\",\"optionvalue\":\"Field Type\"},{\"optionid\":\"8002\",\"optionvalue\":\"TimeLine\"},{\"optionid\":\"8003\",\"optionvalue\":\"ReasonCode\"},{\"optionid\":\"8004\",\"optionvalue\":\"PlanTimeLine\"},{\"optionid\":\"351000001\",\"optionvalue\":\"PlanTimeline\"},{\"optionid\":\"7910\",\"optionvalue\":\"Reason Code\"},{\"optionid\":\"8004\",\"optionvalue\":\"FollowupStatus\"},{\"optionid\":\"8005\",\"optionvalue\":\"ImportStatus\"},{\"optionid\":\"8006\",\"optionvalue\":\"TagColor\"},{\"optionid\":\"11001\",\"optionvalue\":\"LeadStatusCode\"},{\"optionid\":\"201\",\"optionvalue\":\"CustomerSizeCode\"},{\"optionid\":\"202\",\"optionvalue\":\"CustomerTypeCode\"},{\"optionid\":\"203\",\"optionvalue\":\"PreferredContactMethodCode\"},{\"optionid\":\"204\",\"optionvalue\":\"LeadSourceCode\"},{\"optionid\":\"205\",\"optionvalue\":\"PaymentTermsCode\"},{\"optionid\":\"213\",\"optionvalue\":\"Status 1\"},{\"optionid\":\"224\",\"optionvalue\":\"Preferred Appointment Day Code\"},{\"optionid\":\"225\",\"optionvalue\":\"PreferredAppointmentTimeCode\"},{\"optionid\":\"301\",\"optionvalue\":\"Account Category Code\"},{\"optionid\":\"305\",\"optionvalue\":\"Account Rating Code\"},{\"optionid\":\"306\",\"optionvalue\":\"Industry Code\"},{\"optionid\":\"308\",\"optionvalue\":\"Account Classification Code\"},{\"optionid\":\"309\",\"optionvalue\":\"Business Type Code\"},{\"optionid\":\"2001\",\"optionvalue\":\"Process Stage\"},{\"optionid\":\"215\",\"optionvalue\":\"Address1 Address TypeCode\"},{\"optionid\":\"231\",\"optionvalue\":\"Lead Quality Code\"},{\"optionid\":\"214\",\"optionvalue\":\"Status Code\"},{\"optionid\":\"217\",\"optionvalue\":\"Address1 Shipping Method Code\"},{\"optionid\":\"416\",\"optionvalue\":\"Rating\"},{\"optionid\":\"417\",\"optionvalue\":\"Lead Score\"},{\"optionid\":\"422\",\"optionvalue\":\"Preferred Service\"},{\"optionid\":\"423\",\"optionvalue\":\"Department\"},{\"optionid\":\"424\",\"optionvalue\":\"Products\"},{\"optionid\":\"9000\",\"optionvalue\":\"Task Type\"},{\"optionid\":\"9001\",\"optionvalue\":\"Task Status\"},{\"optionid\":\"9002\",\"optionvalue\":\"Task priority\"},{\"optionid\":\"9005\",\"optionvalue\":\"Outcome\"},{\"optionid\":\"9006\",\"optionvalue\":\"EmailStatus\"},{\"optionid\":\"9007\",\"optionvalue\":\"RelatedInstanceStatus\"},{\"optionid\":\"9008\",\"optionvalue\":\"StepRelatedto\"},{\"optionid\":\"9009\",\"optionvalue\":\"Timezone\"},{\"optionid\":\"9010\",\"optionvalue\":\"Operator\"},{\"optionid\":\"9007\",\"optionvalue\":\"RelatedInstanceStatus\"},{\"optionid\":\"9008\",\"optionvalue\":\"StepRelatedto\"},{\"optionid\":\"9009\",\"optionvalue\":\"Timezone\"},{\"optionid\":\"9010\",\"optionvalue\":\"Operator\"},{\"optionid\":\"7040\",\"optionvalue\":\"Workitem Type\"},{\"optionid\":\"351000000\",\"optionvalue\":\"Chunk\"},{\"optionid\":\"4000\",\"optionvalue\":\"Progress Status\"},{\"optionid\":\"8000\",\"optionvalue\":\"WorkDay\"},{\"optionid\":\"8001\",\"optionvalue\":\"WorkWeek\"},{\"optionid\":\"8007\",\"optionvalue\":\"Relationshiptype\"},{\"optionid\":\"237\",\"optionvalue\":\"Sales Stage\"},{\"optionid\":\"401\",\"optionvalue\":\"Budget Status\"},{\"optionid\":\"404\",\"optionvalue\":\"Opportunity Rating Code\"},{\"optionid\":\"9003\",\"optionvalue\":\"Duration\"},{\"optionid\":\"9004\",\"optionvalue\":\"RelatedTo\"},{\"optionid\":\"9020\",\"optionvalue\":\"Sequence Status\"},{\"optionid\":\"414\",\"optionvalue\":\"State Code\"},{\"optionid\":\"415\",\"optionvalue\":\"Account Status\"},{\"optionid\":\"418\",\"optionvalue\":\"Affirmation\"},{\"optionid\":\"419\",\"optionvalue\":\"Annual Revenue\"},{\"optionid\":\"420\",\"optionvalue\":\"Number of Employees\"},{\"optionid\":\"421\",\"optionvalue\":\"Transaction Currency\"},{\"optionid\":\"8009\",\"optionvalue\":\"Call Outcome\"},{\"optionid\":\"8010\",\"optionvalue\":\"Direction\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "7001",
+            "mastervalues": "[{\"optionid\":\"31\",\"optionvalue\":\"Immediate\"},{\"optionid\":\"32\",\"optionvalue\":\"Important\"},{\"optionid\":\"33\",\"optionvalue\":\"A\"},{\"optionid\":\"34\",\"optionvalue\":\"B\"},{\"optionid\":\"35\",\"optionvalue\":\"C\"},{\"optionid\":\"36\",\"optionvalue\":\"D\"},{\"optionid\":\"37\",\"optionvalue\":\"X\"},{\"optionid\":\"38\",\"optionvalue\":\"Urgent\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "7032",
+            "mastervalues": "[{\"optionid\":\"591\",\"optionvalue\":\"Core\"},{\"optionid\":\"592\",\"optionvalue\":\"Associated\"},{\"optionid\":\"593\",\"optionvalue\":\"Functional\"},{\"optionid\":\"594\",\"optionvalue\":\"System\"},{\"optionid\":\"595\",\"optionvalue\":\"text\"},{\"optionid\":\"596\",\"optionvalue\":\"Custom\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "7033",
+            "mastervalues": "[{\"optionid\":\"589\",\"optionvalue\":\"Core\"},{\"optionid\":\"590\",\"optionvalue\":\"OpsAnalytics\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "7031",
+            "mastervalues": "[{\"optionid\":\"585\",\"optionvalue\":\"Core\"},{\"optionid\":\"586\",\"optionvalue\":\"Business\"},{\"optionid\":\"587\",\"optionvalue\":\"Performance\"},{\"optionid\":\"588\",\"optionvalue\":\"DataBase\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "7034",
+            "mastervalues": "[{\"optionid\":\"600\",\"optionvalue\":\"Uniqueidentifier\"},{\"optionid\":\"601\",\"optionvalue\":\"bit\"},{\"optionid\":\"607\",\"optionvalue\":\"date\"},{\"optionid\":\"597\",\"optionvalue\":\"datetime\"},{\"optionid\":\"598\",\"optionvalue\":\"text\"},{\"optionid\":\"599\",\"optionvalue\":\"numeric\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "7035",
+            "mastervalues": "[{\"optionid\":\"602\",\"optionvalue\":\"textbox\"},{\"optionid\":\"603\",\"optionvalue\":\"Multiselect\"},{\"optionid\":\"604\",\"optionvalue\":\"Dropdown\"},{\"optionid\":\"605\",\"optionvalue\":\"Date Picker\"},{\"optionid\":\"606\",\"optionvalue\":\"Radio button\"},{\"optionid\":\"608\",\"optionvalue\":\"Checkbox\"},{\"optionid\":\"19000510622\",\"optionvalue\":\"Text area\"},{\"optionid\":\"19000510614\",\"optionvalue\":\"Textbox_time\"},{\"optionid\":\"19000510668\",\"optionvalue\":\"Tag\"},{\"optionid\":\"19000510605\",\"optionvalue\":\"datepicker\"},{\"optionid\":\"19000510606\",\"optionvalue\":\"weekfilter\"},{\"optionid\":\"19000510664\",\"optionvalue\":\"Progressbar\"},{\"optionid\":\"19000510907\",\"optionvalue\":\"Link\"},{\"optionid\":\"19000510927\",\"optionvalue\":\"addonbutton\"},{\"optionid\":\"19000510913\",\"optionvalue\":\"Form Groups\"},{\"optionid\":\"19000510914\",\"optionvalue\":\"Number\"},{\"optionid\":\"19000510875\",\"optionvalue\":\"Workflow\"},{\"optionid\":\"19000510876\",\"optionvalue\":\"Time\"},{\"optionid\":\"19000510908\",\"optionvalue\":\"onclickloadmultiselect\"},{\"optionid\":\"19000510909\",\"optionvalue\":\"onclickloaddropdown\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "000100",
+            "mastervalues": "[{\"optionid\":\"602\",\"optionvalue\":\"Lead\"},{\"optionid\":\"603\",\"optionvalue\":\"Contact\"},{\"optionid\":\"604\",\"optionvalue\":\"Account\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "000101",
+            "mastervalues": "[{\"optionid\":\"602\",\"optionvalue\":\"Jack Peterson\"},{\"optionid\":\"603\",\"optionvalue\":\"John Beck\"},{\"optionid\":\"604\",\"optionvalue\":\"Mac Hans\"},{\"optionid\":\"605\",\"optionvalue\":\"Michael William\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": false,
+            "masterid": "000102",
+            "mastervalues": "[{\"optionid\":\"602\",\"optionvalue\":\"Active\"},{\"optionid\":\"603\",\"optionvalue\":\"Inactive\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": true,
+            "masterid": "5CDC0F7A-0670-45A8-B87E-3B131390931C",
+            "mastervalues": "[{\"optionid\":\"1A3D1758-F4C1-47E0-85A9-D36078F878F4\",\"optionvalue\":\"Contact\"},{\"optionid\":\"E66E5177-DFD2-48A5-BBDE-C8891C37F943\",\"optionvalue\":\"User\"},{\"optionid\":\"5EEEC781-9DA2-4214-A581-D1D81046ABE7\",\"optionvalue\":\"Lead\"},{\"optionid\":\"E00EE1B6-9D36-412D-839D-6AF9DD3358C1\",\"optionvalue\":\"Opportunity\"},{\"optionid\":\"5CDC0F7A-0670-45A8-B87E-3B131390931C\",\"optionvalue\":\"Entities\"},{\"optionid\":\"70C75211-155C-45DC-B155-002DBB5CCE91\",\"optionvalue\":\"Attributes\"},{\"optionid\":\"12AAF129-4402-4545-A8BF-B6BD67B8D00B\",\"optionvalue\":\"Option Set\"},{\"optionid\":\"BAB7C355-6476-4B3F-8E65-76763D41C196\",\"optionvalue\":\"Call\"},{\"optionid\":\"7CBE78CB-AD34-4586-8CFE-C47F13C27FE6\",\"optionvalue\":\"Notes\"},{\"optionid\":\"FEF5C2D1-AB1A-443E-A8C5-3A289B514E70\",\"optionvalue\":\"Task\"},{\"optionid\":\"EE000C0A-89C0-4811-8D26-4E1633121C91\",\"optionvalue\":\"Meeting\"},{\"optionid\":\"ED48DF57-F563-4D7D-97E3-3A4E60EB6441\",\"optionvalue\":\"ImportTemplate\"},{\"optionid\":\"6785FF3A-C8F9-4848-ADB0-E22F6F7B305F\",\"optionvalue\":\"ImportData\"},{\"optionid\":\"13C63A2D-78A6-4D92-8F6B-53F509400E4E\",\"optionvalue\":\"ImportDataVersion\"},{\"optionid\":\"4BC89935-537A-4643-9CBC-D76568FF61B8\",\"optionvalue\":\"Email\"},{\"optionid\":\"18A0DE1A-86BC-4733-B4DE-129CC6C360EF\",\"optionvalue\":\"Tag\"},{\"optionid\":\"D64FB49A-56B4-4B98-AAD6-C1F0C8FA27F0\",\"optionvalue\":\"ARC_EmailTemplateMaster\"},{\"optionid\":\"B9DA0C5A-3DE8-4D68-9A60-67A28EA89E8F\",\"optionvalue\":\"Options\"},{\"optionid\":\"A20EBE31-65C2-4F74-98A3-6D3ADBF77FE7\",\"optionvalue\":\"Sequence\"},{\"optionid\":\"22DE8E7F-D610-4B06-86D6-F9E1988DE8FC\",\"optionvalue\":\"Campaign\"},{\"optionid\":\"2045F2BB-9C55-4399-82DC-C90F1F5514F3\",\"optionvalue\":\"ARC_EmailTemplate_Attachments\"},{\"optionid\":\"BC082DF0-857D-4B63-B0A4-69D33E303961\",\"optionvalue\":\"ARC_Email_Transactions\"},{\"optionid\":\"09D03B62-16AC-48D2-9EF4-42EC8136A217\",\"optionvalue\":\"ARC_Email_Attachments\"},{\"optionid\":\"7E6694D1-8477-4E8A-A19F-477156E832FF\",\"optionvalue\":\"TagGroup\"},{\"optionid\":\"0033280D-4FF4-4F57-8029-E61A1606D3C2\",\"optionvalue\":\"TestEntityNov\"},{\"optionid\":\"A368800B-89CA-4ACB-84F9-36C2D2135D0F\",\"optionvalue\":\"TestEntity\"},{\"optionid\":\"4492D9C0-F91A-4F9A-9476-56AE62C171BD\",\"optionvalue\":\"Account\"},{\"optionid\":\"2F4A69F6-91FC-437B-9ACF-E3B0D11E1193\",\"optionvalue\":\"Test_Merchant\"},{\"optionid\":\"FC2B02BC-5D39-43F5-B758-9E64BDD887F6\",\"optionvalue\":\"Arc_WorkFlow\"},{\"optionid\":\"27D05E79-E67B-41BE-8E8D-684268430F48\",\"optionvalue\":\"WorkFlow\"},{\"optionid\":\"B347784C-2C93-4D3E-8C2F-F9C8BDFA5755\",\"optionvalue\":\"WorkFlowStages\"},{\"optionid\":\"91BC1850-B70A-4E9B-A65D-B9919FBA437C\",\"optionvalue\":\"WorkFlowStatus\"}]",
+            "groupvalue": {}
+          },
+          {
+            "islookup": true,
+            "masterid": "00007",
+            "mastervalues": "[{\"optionid\":\"1007\",\"optionvalue\":\"Chitra\"},{\"optionid\":\"1008\",\"optionvalue\":\"DRS\"},{\"optionid\":\"1009\",\"optionvalue\":\"Gopinath\"},{\"optionid\":\"1010\",\"optionvalue\":\"Kiran\"},{\"optionid\":\"1011\",\"optionvalue\":\"Ravishankar\"},{\"optionid\":\"1012\",\"optionvalue\":\"Santhosh\"},{\"optionid\":\"1013\",\"optionvalue\":\"Senthil\"},{\"optionid\":\"1014\",\"optionvalue\":\"Eric\"},{\"optionid\":\"1015\",\"optionvalue\":\"Aarthi\"},{\"optionid\":\"1016\",\"optionvalue\":\"Annamalai\"},{\"optionid\":\"1019\",\"optionvalue\":\"Naveen\"},{\"optionid\":\"1020\",\"optionvalue\":\"Lakshman\"},{\"optionid\":\"1021\",\"optionvalue\":\"Yuvaraj\"},{\"optionid\":\"1022\",\"optionvalue\":\"Gomathi\"},{\"optionid\":\"1023\",\"optionvalue\":\"Gowtham\"},{\"optionid\":\"1024\",\"optionvalue\":\"Partha\"},{\"optionid\":\"1025\",\"optionvalue\":\"krsrivatsav\"},{\"optionid\":\"1026\",\"optionvalue\":\"bharkavi\"},{\"optionid\":\"1028\",\"optionvalue\":\"adam\"},{\"optionid\":\"1027\",\"optionvalue\":\"Anita\"},{\"optionid\":\"1030\",\"optionvalue\":\"Venkat\"},{\"optionid\":\"1031\",\"optionvalue\":\"Antonywdw\"},{\"optionid\":\"1032\",\"optionvalue\":\"Nandhakumar\"},{\"optionid\":\"1033\",\"optionvalue\":\"Aravindh\"},{\"optionid\":\"1034\",\"optionvalue\":\"Abbey\"},{\"optionid\":\"1035\",\"optionvalue\":\"Aswini\"},{\"optionid\":\"1036\",\"optionvalue\":\"Anto\"}]",
+            "groupvalue": {}
+          }
+        ]
+      },
+      "messages": [],
+      "succeeded": true
+    }
+  },
+  "permissionlist_getlistconfigbyid": {
+    "result": {
+      "list": [
+        {
+          "id": "8202cff6-0a0d-47af-9516-eace2b886c96",
+          "entityid": "5cdc0f7a-0670-45a8-b87e-3b131390931c",
+          "entityname": "Entities",
+          "name": "Entity",
+          "header": {
+            "name": "Entities"
+          },
+          "type": "List",
+          "data": {
+            "dataset": [
+              {
+                "datasetid": "e463d6b2-80d7-4288-b603-9386c1d740f0",
+                "title": "All Module",
+                "isdefault": true,
+                "isselected": true,
+                "owner": "system",
+                "seqno": 2
+              }
+            ],
+            "config": {
+              "listfields": [
+                {
+                  "id": "01",
+                  "name": "Role Name",
+                  "lablekey": "entity-name-lbl",
+                  "columnwidth": 150,
+                  "seqno": 1,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "currencytype": null,
+                  "api_name": "DisplayName",
+                  "visible": true,
+                  "displayapiname": "RoleName",
+                  "inlineeditable": null,
+                  "istitle": true,
+                  "isdate": false,
+                  "islookup": false
+                },
+                {
+                  "id": "04",
+                  "name": "Users",
+                  "lablekey": "entity-name-lbl",
+                  "columnwidth": 150,
+                  "seqno": 1,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "currencytype": null,
+                  "api_name": "DisplayName",
+                  "visible": true,
+                  "displayapiname": "Users",
+                  "inlineeditable": null,
+                  "istitle": false,
+                  "isdate": false,
+                  "islookup": false
+                },
+                {
+                  "id": "05",
+                  "name": "Last Updated",
+                  "lablekey": "lbl-Workitem-duedate",
+                  "columnwidth": 150,
+                  "seqno": 15,
+                  "masterid": "",
+                  "controltype": "date",
+                  "attrtype": "datetime",
+                  "api_name": "column30",
+                  "visible": true,
+                  "displayapiname": "LastUpdated",
+                  "inlineeditable": null,
+                  "istitle": false,
+                  "isdate": true,
+                  "islookup": false
+                },
+                {
+                  "id": "02",
+                  "name": "Description",
+                  "lablekey": "entity-name-lbl",
+                  "columnwidth": 150,
+                  "seqno": 1,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "currencytype": null,
+                  "api_name": "WorkflowType",
+                  "visible": true,
+                  "displayapiname": "Description",
+                  "inlineeditable": null,
+                  "istitle": false,
+                  "isdate": false,
+                  "islookup": false
+                },
+                {
+                  "id": "03",
+                  "name": "Status",
+                  "lablekey": "entity-name-lbl",
+                  "columnwidth": 150,
+                  "seqno": 1,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "currencytype": null,
+                  "api_name": "CreatedBy",
+                  "visible": true,
+                  "displayapiname": "setasdefault",
+                  "inlineeditable": null,
+                  "istitle": false,
+                  "isdate": false,
+                  "islookup": false
+                }
+              ],
+              "filterfields": [
+                {
+                  "id": "bb7f219e-d5aa-4aa3-ba78-2b942f6aed03",
+                  "name": "Role Name",
+                  "lablekey": "lbl-Workitem-title",
+                  "seqno": 1,
+                  "filtercontroltype": "textbox",
+                  "isquickfilter": true,
+                  "api_name": "column16",
+                  "islookup": false,
+                  "masterid": "",
+                  "apioutputskey": "",
+                  "apioutputvalue": ""
+                }
+              ],
+              "groupbyfields": [
+                {
+                  "id": "61376780-b621-46cd-97ad-49e415e33736",
+                  "name": "Create",
+                  "labelkey": "lbl-Account-CustomerTypeCode",
+                  "seqno": null,
+                  "api_name": "CustomerTypeCode",
+                  "type": "Horizontal",
+                  "direction": "-",
+                  "masterid": "202"
+                },
+                {
+                  "id": "8d6a7e26-81ad-4299-b21f-e601a8754afa",
+                  "name": "Update",
+                  "labelkey": "lbl-Account-CustomerSizeCode",
+                  "seqno": null,
+                  "api_name": "CustomerSizeCode",
+                  "type": "Horizontal",
+                  "direction": "-",
+                  "masterid": "201"
+                },
+                {
+                  "id": "081880af-a45b-40ab-bfc1-c4ea60e7ce63",
+                  "name": "Delete",
+                  "labelkey": "contact_workflowstatus_lbl",
+                  "seqno": null,
+                  "api_name": "Workflow Status",
+                  "type": "Horizontal",
+                  "direction": "-",
+                  "masterid": "91BC1850-B70A-4E9B-A65D-B9919FBA437C"
+                },
+                {
+                  "id": "4ea16646-f64b-4749-b61d-8fd9593cf591",
+                  "name": "View",
+                  "labelkey": "contact_workflowstage_lbl",
+                  "seqno": null,
+                  "api_name": "Workflow Stage",
+                  "type": "Horizontal",
+                  "direction": "-",
+                  "masterid": "B347784C-2C93-4D3E-8C2F-F9C8BDFA5755"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "permissionlist_getdatasetfieldinfobyid": {
+    "result": {
+      "id": "e463d6b2-80d7-4288-b603-9386c1d740f0",
+      "name": "All Workflows",
+      "owner": null,
+      "isdefault": true,
+      "last_accessed_time": null,
+      "filters": [],
+      "groupby": [],
+      "columns": [
+        {
+          "id": "01",
+          "seqno": 1,
+          "masterid": "",
+          "controltype": "textbox",
+          "attrtype": "text",
+          "api_name": "RoleName",
+          "columnwidth": 100
+        },
+        {
+          "id": "02",
+          "seqno": 1,
+          "masterid": "",
+          "controltype": "textbox",
+          "attrtype": "text",
+          "api_name": "Description",
+          "columnwidth": 350
+        },
+        {
+          "id": "04",
+          "seqno": 1,
+          "masterid": "",
+          "controltype": "textbox",
+          "attrtype": "text",
+          "api_name": "Users",
+          "columnwidth": 150
+        },
+        {
+          "id": "05",
+          "seqno": 1,
+          "masterid": "",
+          "controltype": "textbox",
+          "attrtype": "text",
+          "api_name": "LastUpdated",
+          "columnwidth": 200
+        },
+
+        {
+          "id": "03",
+          "seqno": 1,
+          "masterid": "",
+          "controltype": "textbox",
+          "attrtype": "text",
+          "api_name": "setasdefault",
+          "columnwidth": 150
+        }
+      ]
+    }
+  },
+  "permissionlist_listdata": {
+    "result": {
+      "data": [
+        {
+          "id": "001",
+          "RoleName": "Super Admin",
+          "Description": "Has all Admin permissions",
+          "setasdefault": "true",
+          "Users": "4",
+          "LastUpdated": "11/30/2024 12:00:00 AM"
+        },
+        {
+          "id": "002",
+          "RoleName": "Product Designer",
+          "Description": "Manage Entities, Manage Workflows",
+          "setasdefault": "true",
+          "Users": "4",
+          "LastUpdated": "11/30/2024 12:00:00 AM"
+        },
+        {
+          "id": "003",
+          "RoleName": "Admin",
+          "Description": "Create, Update, Delete, View",
+          "setasdefault": "true",
+          "Users": "4",
+          "LastUpdated": "11/30/2024 12:00:00 AM"
+        },
+        {
+          "id": "004",
+          "RoleName": "Editor",
+          "Description": "Create and update content",
+          "setasdefault": "false",
+          "Users": "3",
+          "LastUpdated": "11/29/2024 10:00:00 AM"
+        },
+        {
+          "id": "005",
+          "RoleName": "Viewer",
+          "Description": "Can only view content",
+          "setasdefault": "false",
+          "Users": "10",
+          "LastUpdated": "11/28/2024 03:45:00 PM"
+        },
+        {
+          "id": "006",
+          "RoleName": "Manager",
+          "Description": "Manages teams and projects",
+          "setasdefault": "false",
+          "Users": "7",
+          "LastUpdated": "11/27/2024 01:30:00 PM"
+        },
+        {
+          "id": "007",
+          "RoleName": "Operator",
+          "Description": "Handles operations and logistics",
+          "setasdefault": "false",
+          "Users": "6",
+          "LastUpdated": "11/26/2024 09:15:00 AM"
+        },
+        {
+          "id": "008",
+          "RoleName": "HR",
+          "Description": "Manages employee records and payroll",
+          "setasdefault": "false",
+          "Users": "5",
+          "LastUpdated": "11/25/2024 02:30:00 PM"
+        },
+        {
+          "id": "009",
+          "RoleName": "Finance",
+          "Description": "Handles company financials",
+          "setasdefault": "false",
+          "Users": "4",
+          "LastUpdated": "11/24/2024 11:00:00 AM"
+        },
+        {
+          "id": "010",
+          "RoleName": "IT Support",
+          "Description": "Maintains and supports IT infrastructure",
+          "setasdefault": "false",
+          "Users": "8",
+          "LastUpdated": "11/23/2024 04:20:00 PM"
+        },
+        {
+          "id": "011",
+          "RoleName": "Developer",
+          "Description": "Builds and maintains software applications",
+          "setasdefault": "false",
+          "Users": "12",
+          "LastUpdated": "11/22/2024 05:45:00 PM"
+        },
+        {
+          "id": "012",
+          "RoleName": "QA Tester",
+          "Description": "Ensures software quality through testing",
+          "setasdefault": "false",
+          "Users": "5",
+          "LastUpdated": "11/21/2024 09:30:00 AM"
+        },
+        {
+          "id": "013",
+          "RoleName": "Security",
+          "Description": "Manages security policies and audits",
+          "setasdefault": "false",
+          "Users": "3",
+          "LastUpdated": "11/20/2024 12:15:00 PM"
+        },
+        {
+          "id": "014",
+          "RoleName": "Legal",
+          "Description": "Handles legal compliance and contracts",
+          "setasdefault": "false",
+          "Users": "2",
+          "LastUpdated": "11/19/2024 03:50:00 PM"
+        },
+        {
+          "id": "015",
+          "RoleName": "Sales",
+          "Description": "Manages client relationships and sales",
+          "setasdefault": "false",
+          "Users": "9",
+          "LastUpdated": "11/18/2024 08:40:00 AM"
+        },
+        {
+          "id": "016",
+          "RoleName": "Marketing",
+          "Description": "Handles advertising and brand awareness",
+          "setasdefault": "false",
+          "Users": "7",
+          "LastUpdated": "11/17/2024 06:10:00 PM"
+        },
+        {
+          "id": "017",
+          "RoleName": "Trainer",
+          "Description": "Provides training and onboarding",
+          "setasdefault": "false",
+          "Users": "4",
+          "LastUpdated": "11/16/2024 11:00:00 AM"
+        },
+        {
+          "id": "018",
+          "RoleName": "Content Creator",
+          "Description": "Creates and manages digital content",
+          "setasdefault": "false",
+          "Users": "6",
+          "LastUpdated": "11/15/2024 07:20:00 PM"
+        },
+        {
+          "id": "019",
+          "RoleName": "Consultant",
+          "Description": "Provides expert advice",
+          "setasdefault": "false",
+          "Users": "5",
+          "LastUpdated": "11/14/2024 02:55:00 PM"
+        },
+        {
+          "id": "020",
+          "RoleName": "Guest",
+          "Description": "Limited access to view content",
+          "setasdefault": "false",
+          "Users": "15",
+          "LastUpdated": "11/13/2024 09:10:00 AM"
+        }
+      ],
+      "totalRecords": 20
+    }
   }
 }
